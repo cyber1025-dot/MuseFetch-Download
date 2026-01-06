@@ -1,0 +1,12 @@
+# 🎵 MuseFetch Download
+
+이 리포지토리는 MuseFetch의 설치 파일을 공용으로 배포하기 위한 공간입니다.
+
+## 🚀 최신 버전 다운로드
+
+아래 링크를 클릭하여 MuseFetch 설치 프로그램을 다운로드할 수 있습니다.
+
+👉 **[MuseFetch 설치 파일 다운로드 (v1.0.0)](https://github.com/cyber1025-dot/MuseFetch-Download/raw/main/MuseFetch_Setup_v1.0.0.exe)**
+
+---
+소스 코드는 비공개로 관리되고 있습니다. 문의 사항은 개발자에게 연락주세요.
