@@ -1,12 +1,21 @@
 # 🎵 MuseFetch Download
 
-이 리포지토리는 MuseFetch의 설치 파일을 공용으로 배포하기 위한 공간입니다.
+MuseFetch Windows **설치 파일만** 올리는 전용 저장소입니다. (실행 파일은 [Git LFS](https://git-lfs.com/)로 관리됩니다.)
 
-## 🚀 최신 버전 다운로드
+## 🚀 최신 설치 파일 (v1.0.5)
 
-아래 링크를 클릭하여 MuseFetch 설치 프로그램을 다운로드할 수 있습니다.
+| 설명 | 링크 |
+|------|------|
+| **권장 (최신 파일명)** | [`MuseFetch_Setup_v1.0.5.exe`](https://github.com/cyber1025-dot/MuseFetch-Download/raw/main/MuseFetch_Setup_v1.0.5.exe) |
 
-👉 **[MuseFetch 설치 파일 다운로드 (v1.0.0)](https://github.com/cyber1025-dot/MuseFetch-Download/raw/main/MuseFetch_Setup_v1.0.0.exe)**
+## 🔗 예전에 공유한 링크 (v1.0.0 파일명)
 
----
-소스 코드는 비공개로 관리되고 있습니다. 문의 사항은 개발자에게 연락주세요.
+아래 **파일명은 v1.0.0**이지만, **내용은 위 v1.0.5와 동일**합니다.  
+블로그·SNS·북마크에 남아 있는 **구 URL을 그대로** 두고 받아도 최신 빌드가 내려갑니다.
+
+- [`MuseFetch_Setup_v1.0.0.exe`](https://github.com/cyber1025-dot/MuseFetch-Download/raw/main/MuseFetch_Setup_v1.0.0.exe)
+
+## ℹ️ 참고
+
+- **소스·이슈**: [MuseFetch](https://github.com/cyber1025-dot/MuseFetch)
+- PyInstaller로 만든 설치 파일은 일부 백신에서 **오탐**이 날 수 있으니, **이 저장소의 공식 링크**에서만 받는 것을 권장합니다.
